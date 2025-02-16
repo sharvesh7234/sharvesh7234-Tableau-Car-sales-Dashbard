@@ -18,5 +18,6 @@ This project aims to design and develop an interactive Car Sales Dashboard using
 -Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
 
 
-#DASHBOARD
+##DASHBOARD
 <https://github.com/sharvesh7234/sharvesh7234-Tableau-Car-sales-Dashbard/blob/main/Dashboard%20Image.png">
+
