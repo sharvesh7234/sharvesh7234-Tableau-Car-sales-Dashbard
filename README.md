@@ -17,7 +17,7 @@ This project aims to design and develop an interactive Car Sales Dashboard using
 -Showcase the YTD sales data based on different dealer regions using a bar chart to visualize the sales distribution geographically.
 -Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
 
+## DASHBOARD
+![Dashboard Preview](https://github.com/sharvesh7234/sharvesh7234-Tableau-Car-sales-Dashbard/blob/main/Dashboard%20Image.png?raw=true)
 
-##DASHBOARD
-<https://github.com/sharvesh7234/sharvesh7234-Tableau-Car-sales-Dashbard/blob/main/Dashboard%20Image.png">
 
